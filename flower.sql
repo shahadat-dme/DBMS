@@ -1,5 +1,6 @@
 # DBMS
 Database Management System Project : Flower Shop
+
 drop table store cascade constraints;
 drop table employee cascade constraints;
 drop table items cascade constraints;
